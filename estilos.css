@@ -12,7 +12,8 @@ body
 
 footer
 {
-	color: white;
+
+	color: rgba(225,225,225,0.7);
 	background: #22BCE0;
 	text-align: center;
 	padding: 1em;
@@ -122,4 +123,14 @@ nav ul li a
 	color:white;
 	display:block;
 	padding:0.5em 0;
+}
+
+#contenido
+{
+	margin: 1em;
+}
+#contenido .item
+{
+	background:white;
+	border-bottom: 3px solid #22BCE0;
 }
